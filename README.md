@@ -65,6 +65,8 @@ Os exemplos abaixo incluem o payload JSON e o HTML gerado:
 - Promoção: `examples/promocao.json` → `examples/promocao.html`
 - Carrinho abandonado: `examples/carrinho-abandonado.json` → `examples/carrinho-abandonado.html`
 
+Para visualizar rapidamente todos os layouts, abra `examples/index.html` no navegador.
+
 ## Exemplos de saída (trechos)
 
 ### Newsletter
