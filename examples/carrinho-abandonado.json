@@ -1,0 +1,32 @@
+{
+  "layout": "carrinho-abandonado",
+  "subject": "Seus itens estão esperando",
+  "preheader": "Finalize seu pedido com entrega rápida.",
+  "brand": {
+    "name": "TechHub",
+    "primaryColor": "#0EA5E9",
+    "secondaryColor": "#0F172A",
+    "backgroundColor": "#F0F9FF",
+    "textColor": "#1E293B",
+    "footerText": "TechHub · Suporte 24/7 · suporte@techhub.com"
+  },
+  "cart": {
+    "title": "Você esqueceu algo no carrinho",
+    "description": "Seus produtos estão reservados por mais 24 horas. Aproveite para concluir sua compra.",
+    "items": [
+      {
+        "name": "Headset gamer Orion",
+        "price": "R$ 399,00"
+      },
+      {
+        "name": "Teclado mecânico Pulse",
+        "price": "R$ 549,00"
+      }
+    ],
+    "total": "R$ 948,00",
+    "cta": {
+      "text": "Finalizar compra",
+      "url": "https://techhub.example.com/carrinho"
+    }
+  }
+}
