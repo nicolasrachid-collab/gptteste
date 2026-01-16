@@ -18,6 +18,23 @@ Ou via `stdin`:
 cat examples/promocao.json | node src/cli.js > dist/promocao.html
 ```
 
+## API rápida (HTTP)
+
+Suba um servidor local que aceita `POST /render` com JSON e devolve o HTML:
+
+```bash
+node src/server.js
+```
+
+Em outro terminal, envie o payload:
+
+```bash
+curl -X POST http://localhost:3000/render \
+  -H "Content-Type: application/json" \
+  --data @examples/carrinho-abandonado.json \
+  -o dist/carrinho-abandonado.html
+```
+
 ## Payload (exemplo resumido)
 
 ```json
