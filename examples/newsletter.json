@@ -1,0 +1,40 @@
+{
+  "layout": "newsletter",
+  "subject": "Resumo semanal de novidades",
+  "preheader": "Veja as histórias e lançamentos da semana.",
+  "brand": {
+    "name": "Aurora Coffee",
+    "primaryColor": "#8B5CF6",
+    "secondaryColor": "#1F2937",
+    "backgroundColor": "#F5F3FF",
+    "textColor": "#111827",
+    "footerText": "Aurora Coffee · Rua das Flores, 123 · São Paulo"
+  },
+  "hero": {
+    "title": "Bem-vindo à nossa newsletter",
+    "subtitle": "Tendências em cafés especiais, dicas de preparo e histórias dos produtores.",
+    "cta": {
+      "text": "Ler o blog",
+      "url": "https://auroracoffee.example.com/blog"
+    }
+  },
+  "sections": [
+    {
+      "title": "Destaques da semana",
+      "body": "Confira os conteúdos mais lidos e salvos pelos nossos assinantes.",
+      "items": [
+        "Guia completo de moagem para espresso",
+        "Roteiro de cafés especiais no Brasil",
+        "Como harmonizar cafés e sobremesas"
+      ]
+    },
+    {
+      "title": "Agenda",
+      "body": "Participe das próximas experiências e workshops gratuitos.",
+      "items": [
+        "Live com baristas - quinta, 19h",
+        "Clube de assinatura - inscrições abertas"
+      ]
+    }
+  ]
+}

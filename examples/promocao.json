@@ -1,0 +1,28 @@
+{
+  "layout": "promocao",
+  "subject": "Oferta relâmpago VivaFit",
+  "preheader": "Até 35% OFF em kits de treino.",
+  "brand": {
+    "name": "VivaFit",
+    "primaryColor": "#EF4444",
+    "secondaryColor": "#111827",
+    "backgroundColor": "#FEF2F2",
+    "textColor": "#1F2937",
+    "footerText": "VivaFit · Atendimento 24h · viva@vivafit.com"
+  },
+  "offer": {
+    "title": "Treinos completos com 35% OFF",
+    "description": "Renove seu kit de treino com halteres, tapetes e acessórios premium.",
+    "discountLabel": "35% OFF",
+    "validUntil": "Válido até domingo, 23h59",
+    "highlights": [
+      "Frete grátis acima de R$ 199",
+      "Parcelamento em até 10x",
+      "Brinde exclusivo nas primeiras 300 compras"
+    ],
+    "cta": {
+      "text": "Aproveitar agora",
+      "url": "https://vivafit.example.com/promocao"
+    }
+  }
+}
